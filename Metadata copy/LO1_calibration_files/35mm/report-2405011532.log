@@ -1,0 +1,13 @@
+INFO - STARTING CALIBRATION VALIDATION
+INFO - Current Scene alignment: (snapoffsety, snapoffsetx)=(54, 143)
+INFO - Suggested preview alignment: (28, 142)
+INFO - Scene alignment test FAILED: threshold 4
+INFO - Filtered Alignment estimate: [ 0.   -0.25]
+INFO - 
+    Original left shear crop: [ 68 143]
+    Suggested left shear crop: [ 68 143]
+INFO - PASS FILTERED ALIGNMENT SELF TEST
+WARNING - Invalid macbeth user input path: NOPATH
+INFO - Macbeth SA test pass: True | sa_mean=0.07043249262541587< Limit sa_limit=0.1
+INFO - OVERALL TEST RESULT: PASS
+INFO - END VALIDATION

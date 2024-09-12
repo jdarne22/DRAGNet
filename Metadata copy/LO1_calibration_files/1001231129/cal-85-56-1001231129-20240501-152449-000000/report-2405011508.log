@@ -1,0 +1,32 @@
+INFO - STARTING SELF TEST
+INFO - power inside mask = 58.682207977533125
+INFO - repeat2_600nm.h5
+INFO - PASS FILTERED POWER SELF TEST
+INFO - Filtered Alignment estimate: [0.   0.25]
+INFO - 
+    Original left shear crop: [ 68 143]
+    Suggested left shear crop: [ 68 143]
+INFO - PASS FILTERED ALIGNMENT SELF TEST
+INFO - PASS MEAN RATIO SELF TEST: 1.0023772529888266
+INFO - PASS MEDIAN RATIO SELF TEST: 1.004134839627134
+INFO - Estimated y error:
+    Top left: 0
+    Top right:  0
+    Bottom right:  0
+    Bottom left:  0
+    Centre:  0
+    Pass mean shift test: True (0.0<1.5)
+    Pass max shift test: True (0<=1.5)
+PASS Y-SELF TEST
+        
+INFO - repeat0_empty.h5
+INFO - Self-referential  SA test pass: True | self_sa_percentile=0.01966924361956123< Limit sa_limit=0.05
+INFO - Bad pixel  test pass: True | bad_pixel_count=0< Limit bad_pixel_limit=150
+INFO - repeat0_holmium.h5
+INFO - Self-referential  SA test pass: True | self_sa_percentile=0.01982947549870101< Limit sa_limit=0.05
+INFO - Bad pixel  test pass: True | bad_pixel_count=0< Limit bad_pixel_limit=150
+INFO - repeat1_didymium.h5
+INFO - Self-referential  SA test pass: True | self_sa_percentile=0.03520623129675036< Limit sa_limit=0.05
+INFO - Bad pixel  test pass: True | bad_pixel_count=24< Limit bad_pixel_limit=150
+INFO - OVERALL TEST RESULT: PASS
+INFO - END SELF TEST
