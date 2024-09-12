@@ -2,15 +2,26 @@
 Rachael and Josh code
 
 Metadata
+
 Contents: 
+
 •	LO1_calibration_files (Factory calibration folder which is needed for extracting the metadata, we use the 8.5mm folder)
+
 •	Meta_Data.csv (csv where all the metadata is saved to)
+
 •	Metadata_extract.ipynb (Python notebook which saves all image metadata to csv)
+
 Metadata_extract.ipynb: 
+
 1.	Must have sdk installed for the lo.sdk modules to run
+
 2.	Alter directory for factory calibration if needed (shouldn’t need to if on desktop)
+
+
 GUI
+
 Contents:
+
 •	__pycache__ (don’t need to worry about)
 •	LO1_calibration_files (Factory calibration needed to decode loraw files, we use 8.5mm folder)
 •	GUI_Code.ipynb (Python notebook which runs the GUI)
